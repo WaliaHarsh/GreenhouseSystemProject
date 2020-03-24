@@ -1,0 +1,46 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ceng319.greenhousesystemproject.MainReadingsPageActivity">
+
+    <item
+        android:id="@+id/action_MainReadingsPage"
+        android:orderInCategory="1"
+        android:title="Main Readings Page"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_TemperatureData"
+        android:orderInCategory="1"
+        android:title="@string/temperature_data"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_SoilMoistureData"
+        android:orderInCategory="2"
+        android:title="@string/moisture_data"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_WaterSuppyControl"
+        android:orderInCategory="3"
+        android:title="@string/water_supply_control"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Settings"
+        android:orderInCategory="4"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Help"
+        android:orderInCategory="5"
+        android:title="@string/help"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_SignOut"
+        android:orderInCategory="6"
+        android:title="@string/sign_out"
+        app:showAsAction="never" />
+
+
+
+</menu>
+

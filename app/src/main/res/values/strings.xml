@@ -1,0 +1,77 @@
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_main_readings_page">MainReadingsPageActivity</string>
+
+    <string name="app_name">Greenhouse System Project</string>
+    <string name="FieldForStudentID">StudentID</string>
+    <string name="FieldForMessage">Message</string>
+    <string name="action_quit">Quit</string>
+    <string name="secondActivityTitle">Receiver</string>
+    <string name="enter_your_secret_message">Enter your secret message</string>
+    <string name="n01264442">N01264442</string>
+    <string name="returnWord">Return</string>
+    <string name="your_message_is">Your message is:</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="current_status">Current Status</string>
+
+
+    <string name="register_for_new_user">Register for New User</string>
+    <string name="sign_in">Sign In</string>
+    <string name="log_in">Log In</string>
+    <string name="read_from_db">Read from DB</string>
+    <string name="write_to_db">Write to DB</string>
+    <string name="quit">Quit</string>
+    <string name="input_your_e_mail">Input Your E-mail</string>
+    <string name="input_your_password">Input your password</string>
+    <string name="register_new_user">Register New User</string>
+    <string name="input_your_password_again">Input your password again</string>
+    <string name="data_unavailable">No Data is available on the Database</string>
+    <string name="water_supply_control">Water Supply Control</string>
+    <string name="moisture_data">Soil Moisture Data</string>
+    <string name="temperature_data">Temperature Data</string>
+    <string name="help">Help</string>
+
+    <string name="title_activity_temperature_data">TemperatureDataActivity</string>
+    <string name="title_activity_soil_moisture_data">SoilMoistureDataActivity</string>
+    <string name="title_activity_water_supply_control">WaterSupplyControlActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="local_bar">localBar</string>
+    <string name="title_activity_firebase__bar">Firebase_Bar</string>
+    <string name="title_activity_display_temp_and_moisture_readings">
+        DisplayTempAndMoistureReadings
+    </string>
+    <string name="LoginAuthenticationFailed">Authentication failed.</string>
+    <string name="LoginPasswordCantBeEmpty">Email/Password/Product Key Can\'t be empty</string>
+    <string name="MainGreenHouseReadings">Green House Readings</string>
+    <string name="MainTemp">Temperature:</string>
+    <string name="MainSoilMoisture">Soil moisture level in %:</string>
+    <string name="MainTimeStamp">Readings observed at:</string>
+    <string name="RegisterEmailCantBeEmpty">The email and/or password cannot be empty</string>
+    <string name="RegisterPasswordDoesntMatch">The password does\'t match, cannot continue</string>
+    <string name="RegisterCreateNewUser">Create new user failed.</string>
+    <string name="SoilDataGraph">Soil Moisture Data Graph</string>
+    <string name="TempData">Temperature Data</string>
+    <string name="WaterMotorOff">Motor Turned Off</string>
+    <string name="product_key">Product Key</string>
+    <string name="registration_success">Registration Successful</string>
+    <string name="email">Email</string>
+
+
+</resources>
+
+
