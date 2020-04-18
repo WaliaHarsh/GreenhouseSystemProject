@@ -1,4 +1,7 @@
 # GreenhouseSystemProject
+
+Refer to Software App SRS and the Technical Report for full insight to the project.
+
 Greenhouse System Scale Android App
 
 The Model is built to keep data of the Temperature readings as well as the Moisture level readings of the plants so the user can retrieve it from the cloud server. It will also allow the user to provide water to their nursery if the Moisture level is below the ideal percentage. The main advantage of this model is that it is cloud-based and the user will be able to monitor and nourish the plants at their convenience. So, the user will be able to access the data from any location. It makes the product different from others because of its automatic irrigation feature which waters the plants whenever the moisture level drops below a certain limit.
