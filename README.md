@@ -1,9 +1,10 @@
 # GreenhouseSystemProject
 Greenhouse System Scale Android App
 The android app code is provided in the repository.
-The pyhton code to be ran on the raspberri pi is as follows:
+
 The product key for each individual product comes hardcoded in the product as in the python code. 
 The following will be for the product key"walia176x"
+The pyhton code to be ran on the raspberri pi is as follows:
 
 Code:
 ```
