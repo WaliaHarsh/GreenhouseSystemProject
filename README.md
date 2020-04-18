@@ -6,6 +6,7 @@ The product key for each individual product comes hardcoded in the product as in
 The following will be for the product key"walia176x"
 
 Code:
+```
 #!/usr/bin/python
 
 import os
@@ -157,3 +158,6 @@ if __name__ == "__main__":
     GPIO.cleanup()
     os.system('clear')
     print("Cleanup")
+    
+    
+```
